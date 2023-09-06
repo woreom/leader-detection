@@ -2,7 +2,7 @@
 This repo uses Cyclicity Analysis to determine the ranking of each FX Pair.
 [explain more][to do]
 ## Cyclicity Analysis of Time-Series
-cyclicity_analysis.py a working implementation of Cyclicity Analysis, which is a pattern recognition technique for analyzing the leader follower dynamics of multiple time-series.
+cyclicity_analysis.py is a working implementation of Cyclicity Analysis, which is a pattern recognition technique for analyzing the leader follower dynamics of multiple time-series.
 
 ### Usage
 
